@@ -1,8 +1,6 @@
 # Morgan Anderson: @morganog GitHub Account
 
 import random
-import tkinter as tk
-from tkinter import *
 
 # These are my responses I created in a separate file so that my code would
 # be more clean
@@ -62,10 +60,3 @@ def magicball_all():
 def replace_punct(text):
   ignore_punct = str.maketrans(" ", " ", "!,.?")
   return text.translate(ignore_punct)
-
-
-
-def replace_punct(text):
-  ignore_punct = str.maketrans(" ", " ", "!,.?")
-  return text.translate(ignore_punct)
-
