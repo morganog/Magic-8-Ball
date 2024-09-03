@@ -9,3 +9,10 @@ The main program file is *magicball.py and will automatically generate a log.txt
 I used several imports for this file that is already pre-loaded with python. 
 
 mod_imp.py is open-source and is free to use for anyone that needs or want's to play around with it. It doesn't do much besides compile all the possible 8-ball answers. It also has a function for ignore special characters.
+
+
+#### ID LIKE TO CONTRIBUTE ###
+
+In order to contribute just fork the file and create your own branch! Then submit a pull request once you have added new changes. Any and all contributions are welcome, whether you want to add onto my prexisting code or add more to make it exciting, either way it is welcomed!
+
+If you contribute or use this code, thank you for taking your time to do so.
