@@ -10,6 +10,8 @@ I used several imports for this file that is already pre-loaded with python.
 
 mod_imp.py is open-source and is free to use for anyone that needs or want's to play around with it. It doesn't do much besides compile all the possible 8-ball answers. It also has a function for ignore special characters.
 
+![magic_8](https://github.com/user-attachments/assets/09f0b527-161d-4967-b63d-06ad73b7fb36)
+
 
 #### ID LIKE TO CONTRIBUTE ###
 
